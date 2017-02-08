@@ -1,8 +1,8 @@
 body{
-    background-color: gainsboro;
+    background-color: red;
 }
 
 img{
-    border-radius: 50%;
+    border-radius: 20%;
   /*  border:1 px solid #ddd; */
 }
