@@ -3,6 +3,6 @@ body{
 }
 
 img{
-    border-radius: 100px;
-    border:1 px solid #ddd;
+    border-radius: 50%;
+  /*  border:1 px solid #ddd; */
 }
