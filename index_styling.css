@@ -2,7 +2,7 @@ body{
     background-color: gainsboro;
 }
 
-.prof_pic{
+img{
     border-radius: 100px;
     border:1 px solid #ddd;
 }
