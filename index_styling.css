@@ -12,14 +12,15 @@ a:link{
     color: white;
     background-color: black;
     text-align: center;
-    link:purple;
+    link:red;
 
 }
 
 #bottom{
     text-align: center;
     background-color: white;
-    color:gainsboro;
+    color:black;
+    link:green;
 }
 
 body{
