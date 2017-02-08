@@ -3,7 +3,7 @@
     text-align: center
 }
 
-p:link{
+a:link{
     color:white;
 }
 
@@ -12,14 +12,23 @@ p:link{
     color: white;
     background-color: black;
     text-align: center;
+    link:purple;
 
+}
+
+#bottom{
+    text-align: center;
+    background-color: white;
+    color:gainsboro;
 }
 
 body{
     background-color: gainsboro;
+
 }
 
 img{
+    text-align: center
     border-radius: 40%;
     height: 200px;
     width:200px;
