@@ -1,9 +1,9 @@
 #header{
     color:DarkMagenta;
-    text-align: center
+    text-align: center;
 }
 
-a:link{
+a{
     color:white;
 }
 
@@ -12,7 +12,6 @@ a:link{
     color: white;
     background-color: black;
     text-align: center;
-    link:red;
 
 }
 
@@ -20,7 +19,6 @@ a:link{
     text-align: center;
     background-color: white;
     color:black;
-    link:green;
 }
 
 body{
