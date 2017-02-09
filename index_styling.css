@@ -3,8 +3,12 @@
     text-align: center;
 }
 
-a{
+a#navbar{
     color:white;
+}
+
+a#bottom{
+    color:black;
 }
 
 #navbar{
